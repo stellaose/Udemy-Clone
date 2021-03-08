@@ -1,0 +1,17 @@
+ul {
+   list-style-type: none;
+  }
+  
+  
+  ul li:before {
+    content: '';
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    background-size: 15px;
+    background-image: url("download.jfif");
+    background-repeat: no-repeat;
+    margin-right: 5px;
+  }
+  
+  
