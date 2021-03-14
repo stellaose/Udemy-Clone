@@ -321,6 +321,10 @@ h3 {
     height: 300px;
     margin-bottom: 30px;
 }
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+} 
 .gallery {
     margin: 5px;
     float: left;
